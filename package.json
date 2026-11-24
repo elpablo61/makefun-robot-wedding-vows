@@ -1,0 +1,1 @@
+{"description":"One-Line Robot Wedding Vows — a make.fun entry that writes one funny line of robot wedding vows to /output/entry.txt","license":"MIT","main":"main.ts","name":"makefun-robot-wedding-vows","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
